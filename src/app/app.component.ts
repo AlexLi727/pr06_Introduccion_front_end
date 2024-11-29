@@ -13,4 +13,5 @@ export class AppComponent {
     this.title = "Nou valor title";
   }
   title = 'pr06_Introduccion_front_end';
+  
 }
