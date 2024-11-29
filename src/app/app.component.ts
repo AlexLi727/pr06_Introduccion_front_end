@@ -9,5 +9,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
+  clickButton(){
+    this.title = "Nou valor title";
+  }
   title = 'pr06_Introduccion_front_end';
 }
